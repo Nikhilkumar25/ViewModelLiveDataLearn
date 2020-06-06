@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModelLiveDataLearn</string>
+    <string name="add_score_btn">Add Score</string>
+    <string name="reset_score_btn">Reset Score</string>
+</resources>
